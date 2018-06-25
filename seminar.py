@@ -3,6 +3,7 @@ import datetime as dt
 import matplotlib.pyplot as plot
 
 danasnji_datum = dt.date.today()
+#hey hey
 
 
 class Uporabnik:
